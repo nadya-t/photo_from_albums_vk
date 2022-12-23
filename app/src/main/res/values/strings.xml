@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Фотографии из ВК</string>
+    <string name="get_albums">Показать альбомы</string>
+    <string name="user_id">Введите ID пользователя</string>
+    <string name="try_again_error">Произошла ошибка. Пожалуйста, повторите запрос позднее. Возможно, стоит проверить интернет соединение.</string>
+    <string name="permission_denied_error">Невозможно загрузить альбом(ы) пользователя - доступ закрыт.</string>
+    <string name="user_blocked_error">Пользователя не существует.</string>
+    <string name="incorrect_param_error">Проверьте ID - введенный некорректен.</string>
+    <string name="no_albums">У пользователя нет альбомов.</string>
+    <string name="no_photos">В альбоме сейчас нет фотографий.</string>
+    <string name="token_error">Проверьте токен - введенный некорректен.</string>
+</resources>
